@@ -1,0 +1,38 @@
+{
+  "mqttUsername" : "admin",
+  "mqttPassword" : "333",
+  "mqttClientId" : "Validation",
+  "mqttClientIp" : "194.87.237.67",
+  "mqttClientPort" : 1883,
+  "databaseLogin" : "SYSDBA",
+  "databasePassword" : "temp",
+  "databasePath" : "C:\\\\Program Files (x86)\\\\Cardsoft\\\\DuoSE\\\\Access\\\\ShieldPro_rest.GDB",
+  "databaseIp" : "192.168.1.5",
+  "databasePort" : 3050,
+  "cameraIdDeviceIdDictionary" : {
+    "1" : 100,
+	"2" : 200,
+	"3" : 300,
+	"4" : 400
+  },
+  "stringDictionary" : {
+    "65" : [ {
+      "x" : 9,
+      "y" : 0,
+      "color" : 2,
+      "text" : "65"
+    } ],
+    "50" : [ {
+      "x" : 9,
+      "y" : 0,
+      "color" : 2,
+      "text" : "50"
+    } ],
+    "46" : [ {
+      "x" : 9,
+      "y" : 0,
+      "color" : 2,
+      "text" : "46"
+    }]
+  }
+}
